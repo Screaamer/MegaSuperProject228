@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Thunder Company Industries</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">HELLO</string>
+    <string name="title_activity_start_screen">STSCAC</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- order N1 -->
+    <string name="name1"> Уретан</string>
+    <string name="descr1">  Уретаны имеют широкое применение в промышленности, используясь в форме уретановых каучуков, клеев, лаков и волокон.</string>
+    <string name="price1"> 4500руб/л</string>
+    <string name="categ1">Популярные</string>
+    <string name="t_res1">Сбор с лаборатории</string>
+    <string name="preps1">Огнеопасен, токсичeн.</string>
+    <string name="bio1"> </string>
+
+    <!-- order N2 -->
+    <string name="name2"> Фуран(стабилизированный)</string>
+    <string name="descr2"> Фуран используется для получения пиррола путем реакции с аммиаком в присутствии оксида алюминия. </string>
+    <string name="price2"> 27000руб/л</string>
+    <string name="categ2"> Популярные</string>
+    <string name="t_res2"> Сбор с лаборатории</string>
+    <string name="preps2">Огнеопасен, токсичен.</string>
+    <string name="bio2"> </string>
+
+    <!-- order N3 -->
+    <string name="name3"> Тартразин</string>
+    <string name="descr3"> Применяется как краситель в продуктах питания </string>
+    <string name="price3">  1299руб/кг</string>
+    <string name="categ3"> Популярные</string>
+    <string name="t_res3">Сбор с лаборатории/Доставка</string>
+    <string name="preps3"> Малотоксичен.</string>
+    <string name="bio3"> </string>
+
+    <!-- order N4 -->
+    <string name="name4"> Нашатырный спирт 10%</string>
+    <string name="descr4"> Нашатырный спирт применяется при крашении тканей, для выведения пятен с одежды и при очистке посуды, мебели, сантехники, ювелирных украшений.  </string>
+    <string name="price4"> 450/л</string>
+    <string name="categ4">Популярные</string>
+    <string name="t_res4">Сбор с лаборатории/Доставка</string>
+    <string name="preps4">Токсичен.</string>
+    <string name="bio4"> </string>
+
+    <!-- order N5 -->
+    <string name="name5"> Триацетин(пищевой)</string>
+    <string name="descr5"> используется в качестве увлажнителя, пластификатора и растворителя. В качестве пластификатора триацетин нашёл применение в производстве жевательной резинки, так как он уменьшает хрупкость и повышает эластичность. </string>
+    <string name="price5"> 500руб/кг</string>
+    <string name="categ5"> Популярные</string>
+    <string name="t_res5">Доставка</string>
+    <string name="preps5">малотоксичен.</string>
+    <string name="bio5"> </string>
+
+    <!-- order N6 -->
+    <string name="name6">Тартразин</string>
+    <string name="descr6">  Пропилгаллат используется для предотвращения окисления жиров и масел и поддержания стабильности косметических рецептур.</string>
+    <string name="price6">30000руб/кг</string>
+    <string name="categ6">Популярные</string>
+    <string name="t_res6">Сбор с лаборатории</string>
+    <string name="preps6">Нет.</string>
+    <string name="bio6"> </string>
+
+    <!-- order N7 -->
+    <string name="name7"> Бензол</string>
+    <string name="descr7"> Бензол широко применяется в промышленности, является исходным сырьём для производства лекарств, различных пластмасс, синтетической резины и красителей </string>
+    <string name="price7"> 750руб/л</string>
+    <string name="categ7"> Популярные</string>
+    <string name="t_res7">Сбор с лаборатории</string>
+    <string name="preps7">Огнеопасен, токсичен.</string>
+    <string name="bio7"> </string>
+
+    <!-- order N8 -->
+    <string name="name8"> Акриламид 98,2%</string>
+    <string name="descr8"> Акриламид используется в очистке природных и сточных вод и обезвоживание осадков в целлюлозно-бумажной промышленности, флокуляции хвостов флотации руд, обогащении и регенерации полезных ископаемых и нефти, обработке бумаги и шлихтование текстильных материалов. </string>
+    <string name="price8">  27000руб/кг</string>
+    <string name="categ8">Популярные</string>
+    <string name="t_res8">Сбор с лаборатории</string>
+    <string name="preps8">Огнеопасен, малотоксичен, активен.</string>
+    <string name="bio8"> </string>
+
+    <!-- order N9 -->
+    <string name="name9"> Никотинамидадениндинуклеотидфосфатгидрин</string>
+    <string name="descr9">  Никотинамидадениндинуклеотидфосфатгидрин используется в медицине для синтезирования различных клеток животных. </string>
+    <string name="price9"> 70000руб/г</string>
+    <string name="categ9">Популярные</string>
+    <string name="t_res9">Сбор с лаборатории</string>
+    <string name="preps9">Нет.</string>
+    <string name="bio9"> </string>
+
+    <!-- order N10 -->
+    <string name="name10"> Бутилгидроксианизол</string>
+    <string name="descr10"> Применяется в качестве антиоксиданта и консерванта в пищевых продуктах, кормах для животных, косметике, резине, нефтепродуктах. </string>
+    <string name="price10"> Цена догорная</string>
+    <string name="categ10">Популярные</string>
+    <string name="t_res10">Сбор с лаборатории,Доставка</string>
+    <string name="preps10"> Малотоксичен.</string>
+    <string name="bio10"> </string>
+
+    <!-- order N11 -->
+    <string name="name11"> Нитроглицерин</string>
+    <string name="descr11"> Применяется в фармакологии как вазодилататор и в качестве взрывчатого вещества в пиротехнике </string>
+    <string name="price11"> Цена договорная</string>
+    <string name="categ11">Популярные</string>
+    <string name="t_res11">Сбор с лаборатории(требуется лицензия)</string>
+    <string name="preps11">Крайне огнеопасен, крайне активен, токсичен.</string>
+    <string name="bio11"> </string>
+
+    <!-- order N12 -->
+    <string name="name12"> Фенол</string>
+    <string name="descr12"> Фенол применяется в производстве различных полиамидов, полиарилатов, полиариленсульфонов, поликарбонатов, эпоксидных смол, антиоксидантов, бактерицидов и пестицидов.</string>
+    <string name="price12"> 950руб/л</string>
+    <string name="categ12">Популярные</string>
+    <string name="t_res12">Сбор с лаборатории/Доставка</string>
+    <string name="preps12"> Токсичен, огнеопасен.</string>
+    <string name="bio12"> </string>
+
+    <!-- order N13 -->
+    <string name="name13"> Оксиран</string>
+    <string name="descr13"> Применяется в производстве этиленгликоля, галогенгидринов, этаноламинов, диоксана, фенилэтанола, полиэтиленгликолей, полиуретанов и др., как бактерицидное средство. </string>
+    <string name="price13"> 11000руб/100г</string>
+    <string name="categ13">Популярные</string>
+    <string name="t_res13">Сбор с лаборатории(требуется лицензия)</string>
+    <string name="preps13">Крайне огнеопасен, токсичен, крайне активен</string>
+    <string name="bio13"> </string>
+
+    <!-- order N14 -->
+    <string name="name14"> Аммоний азотнокислый(нитрат аммония)</string>
+    <string name="descr14"> Используется в качестве компонента взрывчатых веществ и как азотное удобрение. </string>
+    <string name="price14"> 1000руб/кг</string>
+    <string name="categ14">Популярные</string>
+    <string name="t_res14">Сбор с лаборатории(требуется лицензия)</string>
+    <string name="preps14">Крайне активен.</string>
+    <string name="bio14"> </string>
+
+    <!-- order N15 -->
+    <string name="name15">Серная кислота 98.2%</string>
+    <string name="descr15"> Серная кислота используется в производстве минеральных удобрений, красителей, химических волокон, а также в металлургии. Она применяется для различных технологических целей в текстильной, пищевой и др. отраслях промышленности. </string>
+    <string name="price15">490руб/л</string>
+    <string name="categ15">Популярные</string>
+    <string name="t_res15">Сбор с лаборатори/Доставка</string>
+    <string name="preps15">Токсична.</string>
+    <string name="bio15"> </string>
+
+    <!-- order N17 -->
+    <string name="name16"> Азотная кислота 98.2%</string>
+    <string name="descr16"> Используется в производстве удобрений и других химических соединений, например, фосфорной кислоты, щавелевой кислоты, коллодия, аминов, красителей или лекарств. Это также сырье для производства взрывчатых веществ, таких как нитроглицерин. </string>
+    <string name="price16"> 740руб/л</string>
+    <string name="categ16">Популярные</string>
+    <string name="t_res16">Сбор с лаборатории/Доставка</string>
+    <string name="preps16">Токсичен.</string>
+    <string name="bio16"> </string>
+
+
+</resources>

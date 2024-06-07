@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blu">#57A9FF</color>
+    <color name="purp_very_light">#C177FF</color>
+    <color name="purp_com">#7D00E6</color>
+    <color name="purp_deep">#6600BA</color>
+    <color name="purp">#8B00FF</color>
+    <color name="purp_idk">#863cc3</color>
+    <color name="purp_shad">#a233ff</color>
+    <color name="gray_very_light">#ABABAB</color>
+    <color name="gray_com">#353535</color>
+    <color name="gray_deep">#5E5E5E</color>
+<!--    почему gray_deep светлее gray_com?-->
+    <color name="gay">#9B9B9B</color>
+    <color name="gray_kakoyto">#cccccc</color>
+    <color name="Bacc">#222222</color>
+    <color name="gray_choto_mezdu_deep_and_cop">#3B3B3B</color>
+    <color name="Test_color">#FFFFFF</color>
+</resources>
+<!--В следующий раз названия должны быть нормальными!11!!!!1-->
